@@ -201,11 +201,14 @@
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
-      "bases:Створити нову базу": false
+      "bases:Створити нову базу": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1dd31b8f43a1e41c",
+  "active": "16746e66073b9017",
   "lastOpenFiles": [
+    "contacts",
     "Вітаємо.md"
   ]
 }
