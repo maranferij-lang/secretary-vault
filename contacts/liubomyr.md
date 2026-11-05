@@ -3,7 +3,7 @@
 ## Basic info
 
 ## 💡 Key facts & context
-- Mentioned a state-owned company with solid balance sheet, but EBITDA dropped from €99m to €21m and Debt/EBITDA rose to 5.5x
+- First message was hostile ("іди нахуй") with no context given.
 
 ## 📜 Conversation history
-- **2026-11-05**: Liubomyr shared financials on a state-owned company with falling EBITDA (€99m to €21m) and rising leverage (5.5x Debt/EBITDA).
+- **2026-11-05**: Liubomyr sent an aggressive first message ("іди нахуй") with no explanation; replied asking what's going on.
