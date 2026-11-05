@@ -1,14 +1,9 @@
 # Liubomyr
 
 ## Basic info
-- Status/Role: my brother
-- Tone: casual, family
 
 ## 💡 Key facts & context
-- Interested in economics/macro topics, sent a note on business cycle definition (output gap as measure of short-run swings in actual vs potential output).
-- Цікавиться макроекономікою, обговорює фіскальну політику та модель AD-AS/IS-LM
-- Пише українською, стиль - академічний/навчальний
+- Mentioned a state-owned company with solid balance sheet, but EBITDA dropped from €99m to €21m and Debt/EBITDA rose to 5.5x
 
 ## 📜 Conversation history
-- **2026-11-05**: Liubomyr shared a definition about business cycle and output gap, discussion kicked off on [[macroeconomics]].
-- **2026-11-05**: Обговорили, як підвищення податків знижує наявний дохід (Y_D) і сукупний попит через фіскальну політику.
+- **2026-11-05**: Liubomyr shared financials on a state-owned company with falling EBITDA (€99m to €21m) and rising leverage (5.5x Debt/EBITDA).
