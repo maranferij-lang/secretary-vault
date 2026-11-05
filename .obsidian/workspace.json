@@ -31,10 +31,14 @@
             "id": "fc51e28f5386e4f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "contacts/liubomyr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "liubomyr"
             }
           }
         ]
@@ -206,9 +210,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16746e66073b9017",
+  "active": "fc51e28f5386e4f3",
   "lastOpenFiles": [
-    "contacts",
-    "Вітаємо.md"
+    "Вітаємо.md",
+    "contacts/liubomyr.md",
+    "contacts"
   ]
 }
