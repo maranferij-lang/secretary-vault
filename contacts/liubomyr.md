@@ -5,4 +5,4 @@
 ## 💡 Key facts & context
 
 ## 📜 Conversation history
-- **2026-11-06**: Liubomyr sent just ")" as a first message, no other info yet.
+- **2026-11-06**: Liubomyr messaged just "?", unclear what he wants, asked him to clarify.
