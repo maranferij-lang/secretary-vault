@@ -3,7 +3,7 @@
 ## Basic info
 
 ## 💡 Key facts & context
-- Згадував [[Жора]] (Zhory) — не буде (на якійсь зустрічі/події)
+- Mentioned that [[Kolya]] wrote about [[Anya]] and [[Ksyusha]]
 
 ## 📜 Conversation history
-- **2026-11-06**: Liubomyr написав, що [[Жора]] не буде.
+- **2025-06-15**: Liubomyr mentioned that [[Kolya]] also wrote about [[Anya]] and [[Ksyusha]].
