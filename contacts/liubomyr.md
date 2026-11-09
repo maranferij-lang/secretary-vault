@@ -5,6 +5,7 @@
 - Tone: casual, family
 
 ## 💡 Key facts & context
+- Shared telecom revenue data: in 2025, Kyivstar earned 44.16 billion UAH, Vodafone 25.59 billion UAH, lifecell 15.74 billion UAH
 
 ## 📜 Conversation history
 - **2026-11-05**: Liubomyr shared a definition about business cycle and output gap, discussion kicked off on [[macroeconomics]].
@@ -17,3 +18,4 @@
 - **2026-11-06**: Liubomyr suggested going to [[bowling]].
 - **2026-11-06**: Liubomyr написав, що [[Жора]] не буде.
 - **2026-11-06**: Liubomyr mentioned that [[Kolya]] also wrote about [[Anya]] and [[Ksyusha]].
+- **2026-11-09**: Liubomyr shared 2025 revenue figures for [[Kyivstar]], [[Vodafone]] and [[lifecell]].
